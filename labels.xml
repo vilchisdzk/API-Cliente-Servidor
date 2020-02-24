@@ -1,7 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
 <labels xmlns="http://mulan.sourceforge.net/labels">
-<label name="label1"></label>
-  <label name="label2"></label>
-  <label name="label3"></label>
-  <label name="label4"></label>
-  <label name="label5"></label>
+  <label name="sports">
+    <label name="football"></label>
+    <label name="basketball"></label>
+  </label>
+  <label name="arts">
+    <label name="sculpture"></label>
+    <label name="photography"></label>
+  </label>
 </labels>
