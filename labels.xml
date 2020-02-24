@@ -9,3 +9,21 @@
     <label name="photography"></label>
   </label>
 </labels>
+
+
+
+
+
+@relation MultiLabelExample
+
+@attribute feature1 numeric
+@attribute feature2 numeric
+@attribute feature3 numeric
+@attribute label1 {0, 1}
+@attribute label2 {0, 1}
+@attribute label3 {0, 1}
+@attribute label4 {0, 1}
+@attribute label5 {0, 1}
+
+@data
+2.3,5.6,1.4,0,1,1,0,0
