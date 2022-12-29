@@ -19,6 +19,6 @@
     "nodemon": "^1.17.1"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.2"
+    "@angular/cli": "^15.0.4"
   }
 }
